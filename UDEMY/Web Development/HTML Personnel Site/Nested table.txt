@@ -1,0 +1,29 @@
+
+<table>
+  <tr>
+    <td>
+      <table border="1px">
+        <tr>
+          <td>
+            Python
+          </td>
+          <td>🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+          <td>HTML</td>
+          <td>🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+        <td>
+          CSS
+        </td>
+        <td>🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+        <td>Javascript</td>
+        <td>🌟🌟🌟</td>
+        </tr>
+      </table>
+
+    </td>
+    <td>
